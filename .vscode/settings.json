@@ -19,5 +19,6 @@
         "./2022/day_3/Cargo.toml",
         "./2022/day_4/Cargo.toml",
         "./2022/day_5/Cargo.toml",
+        "./2022/day_6/Cargo.toml",
     ]
 }
